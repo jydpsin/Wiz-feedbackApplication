@@ -1,0 +1,22 @@
+Objective:
+
+Demonstrate your proficiency in deploying and managing cloud-based solutions by setting
+up a three-tiered web application in the cloud platform of your choice.
+Your approach, the challenges faced, and your solutions will be essential components for
+the presentation portion of this task, along with your ability to effectively communicate the
+technical details.
+You can choose the cloud environment of your preference, but we encourage you to pick
+an environment that isn't your strongest. This offers a better insight into your problem-
+solving and adaptability skills. The Wiz recruiter working with you will provide instructions
+on how to access the CloudLabs environment for the build-out. You will have the option to
+choose from AWS, Azure or GCP.
+
+
+Environment Requirements:
+
+
+Web Application Tier: A containerized web application deployed in a Kubernetes cluster.
+Database Tier: MongoDB server set up on a VM configured for access by the Kubernetes
+cluster.
+Storage Tier: Object storage configured to hold MongoDB backups and set with public
+read permissions.
