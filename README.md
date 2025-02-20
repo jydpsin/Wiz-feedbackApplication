@@ -1,4 +1,4 @@
-# Node.js USer Feedback Application Deployment on AWS EKS
+# Node.js Customer Feedback Application Deployment on AWS EKS
 
 This guide explains how to deploy a Node.js application on an AWS EKS instance and integrate it with MongoDB on AWS EC2.
 

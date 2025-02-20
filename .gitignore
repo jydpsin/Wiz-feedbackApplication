@@ -1,7 +1,17 @@
-.vscode
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+crash.log
 
-node_*
+# Mac
+.DS_Store
 
-package-lock.*
-
+# Node
+node_modules/
 .env
+
+# IDE
+.idea/
+.vscode/
