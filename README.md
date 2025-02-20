@@ -24,7 +24,8 @@ This guide explains how to deploy a Node.js application on an AWS EKS instance a
 
 ## Conclusion
 
-You’ve successfully deployed your Node.js application on AWS EC2 and integrated it with MongoDB. Your application should now be running and connected to a cloud-based MongoDB database.
+You’ve successfully deployed your Node.js application on AWS EKS and integrated it with MongoDB which is residing on another EC2 in same network. Your application should now be running and connected to a cloud-based MongoDB database.
 
 For more information, refer to the [AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/index.html)
 For more information, refer to the [AWS EKS Documentation](https://docs.aws.amazon.com/eks/)
+For more information, refer to the [RBAC Authorization](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
