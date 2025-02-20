@@ -16,3 +16,6 @@ package-lock.json
 # IDE
 .idea/
 .vscode/
+
+#Commands
+commands.md
